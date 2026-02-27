@@ -1,0 +1,1 @@
+die txt Dateien hatten alle ?? stehen bei der Aufgabe 3. Bei der Aufgabe 4 haben nun bar.txt und foo.txt ein A stehen und die zwei anderen Dateien weiterhin ??.

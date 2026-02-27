@@ -1,0 +1,21 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..b883f1f
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1 @@
++*.exe
+diff --git a/bar.txt b/bar.txt
+new file mode 100644
+index 0000000..5716ca5
+--- /dev/null
++++ b/bar.txt
+@@ -0,0 +1 @@
++bar
+diff --git a/foo.txt b/foo.txt
+new file mode 100644
+index 0000000..257cc56
+--- /dev/null
++++ b/foo.txt
+@@ -0,0 +1 @@
++foo
