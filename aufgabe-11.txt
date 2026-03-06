@@ -1,0 +1,20 @@
+Aufgabe 1: 
+ 
+Aufgabe 2, Anwendungsfall, wenn in einem bestimmten Zeitraum gesucht wird: 
+commit 1fafdd36de70a3b34bef28788116e58af043f8c3
+Author: Sabina Lazri <sabina_lazri1@sluz.ch>
+Date:   Fri Mar 6 14:40:00 2026 +0100
+
+    added text
+
+commit 50212733fb463f5521e894a068db2b3ae5a9d418
+Author: Sabina Lazri <sabina_lazri1@sluz.ch>
+Date:   Fri Feb 27 15:15:47 2026 +0100
+
+    files with question marks
+
+commit 337fc52036cb3deb95982c4074a6a5edce268ebc
+Author: Sabina Lazri <sabina_lazri1@sluz.ch>
+Date:   Fri Feb 27 15:10:44 2026 +0100
+
+    ignore all .exe files

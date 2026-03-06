@@ -1,0 +1,1 @@
+Ausgabe von git status --short ist nun leer

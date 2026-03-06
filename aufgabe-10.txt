@@ -1,0 +1,31 @@
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    foo.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	aufgabe-10.out
+	aufgabe-6-6.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+git checkout main -- <file>
+
+git mv ist zu bevorzugen, weil git dann eine Änderung erkennt. Bei mv wird die Datei als untracked gespeichert
+
+commit 1fafdd36de70a3b34bef28788116e58af043f8c3
+Author: Sabina Lazri <sabina_lazri1@sluz.ch>
+Date:   Fri Mar 6 14:40:00 2026 +0100
+
+    added text
+
+commit 50212733fb463f5521e894a068db2b3ae5a9d418
+Author: Sabina Lazri <sabina_lazri1@sluz.ch>
+Date:   Fri Feb 27 15:15:47 2026 +0100
+
+    files with question marks
